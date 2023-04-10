@@ -38,7 +38,7 @@ public class Main {
         vehiculos.add(new Vehiculo("Audi", "Q5", 48000));
         vehiculos.add(new Vehiculo("Lexus", "ES", 52000));
         vehiculos.add(new Vehiculo("Subaru", "Legacy", 32000));
-        vehiculos.add(new Vehiculo("Mitsubishi", "Eclipse Cross", 36000));
+        vehiculos.add(new Vehiculo("Mitsubishi", "M6", 36000));
 
         long initialTime = System.nanoTime();
         System.out.println("Lista de vehiculos: ");
